@@ -1,0 +1,8 @@
+Copyright © 2025 Hüdayi Emre Sarıça. Tüm hakları saklıdır.
+
+Bu yazılım yalnızca kişisel, eğitimsel ve referans amaçlı olarak görüntülenebilir.
+Kodun tamamı veya bir kısmı izinsiz olarak kopyalanamaz, dağıtılamaz, satılamaz veya başka bir projede kullanılamaz.
+
+Yazılım üzerinde herhangi bir değişiklik, çoğaltma veya ticari kullanım yalnızca yazarın açık izni ile mümkündür.
+
+İhlal durumunda yasal işlem başlatma hakkı saklıdır.
