@@ -29,11 +29,11 @@ except ImportError:
 GEMINI_API_KEY = "API_KEY" # KENDİ ANAHTARINIZI GİRİN!
 
 # ---------- Sabitler ----------
-SKOR_DOSYASI = r"skorlar.txt" # Dosya yolu basitleştirildi, programın yanına kaydeder.
-LOGO_ICON_PATH = r"kelime_tahmin.png" # Dosya yolu basitleştirildi.
-KAZANMA_SESI_YOLU = r"game_sound/level-win-game-sound.mp3" # Dosya yolu basitleştirildi.
-KAYBETME_SESI_YOLU = r"game_sound/fail-game-sound.mp3" # Dosya yolu basitleştirildi.
-YANLIS_CEVAP_SESI_YOLU = r"game_sound/wrong-answer-game-sound.mp3" # Dosya yolu basitleştirildi.
+SKOR_DOSYASI = r"skorlar.txt" # Dosya yolu basitleştirildi, programın yanına kaydeder.(kendi dosya yolunuzu girin )
+LOGO_ICON_PATH = r"kelime_tahmin.png" # Dosya yolu basitleştirildi.(kendi dosya yolunuzu girin )
+KAZANMA_SESI_YOLU = r"game_sound/level-win-game-sound.mp3" # Dosya yolu basitleştirildi.(kendi dosya yolunuzu girin )
+KAYBETME_SESI_YOLU = r"game_sound/fail-game-sound.mp3" # Dosya yolu basitleştirildi.(kendi dosya yolunuzu girin )
+YANLIS_CEVAP_SESI_YOLU = r"game_sound/wrong-answer-game-sound.mp3" # Dosya yolu basitleştirildi.(kendi dosya yolunuzu girin )
 
 MIN_KELIME_UZUNLUK = 3
 MAX_KELIME_UZUNLUK = 15
